@@ -28,10 +28,10 @@
 既然是個屬於我倆的願望清單，那就建在這個我也覺得不錯的空間裡吧！
 
 ## 17&7N的願望清單(Update in anytime) 
-* <font color="#D86DA9">Physical Hug(with unlimited time)</font>
-* <font color="#D86DA9">A trip without hesitation (could be crazy, could be easy)</font>
-* <font color="#D86DA9">Buy a plate of Sashimi and cook it into fish soup</font>
-* <font color="#D86DA9">Be healthy and the day we meet will be soon</font>
+- [ ] <font color="#D86DA9">Physical Hug(with unlimited time)</font>
+- [ ] <font color="#D86DA9">A trip without hesitation (could be crazy, could be easy)</font>
+- [ ] <font color="#D86DA9">Buy a plate of Sashimi and cook it into fish soup</font>
+- [ ] <font color="#D86DA9">Be healthy and the day we meet will be soon</font>
 
 
 ## 既然沒有Instagram，那就在這裡寫日記吧
@@ -127,7 +127,13 @@
 :::spoiler 疫情爆發一個月了...點擊繼續看
 今天媽媽跟我說了關於小心肝(？)疫苗的事情，而他得出的結論是這世界上依舊存在不公平，而這些有能力的人的生命就是比我們的有價值。
 
-其實他得出這個結論我還蠻不意外k7
+其實他得出這個結論我還蠻不意外的，畢竟他在這個社會打滾了30年，而他所做的工作也是離這些邪惡的人最近距離的工作。但我並沒有想要認同他，我認為擁有一項技能或是有能力貢獻社會使自己不是這世界的消費者才是我活著的意義。
+
+我們現在願意待在家一方面是為了保護自己，另一方面也是相信這世界有另外一群人在拯救我們，而我相信專業。
+
+看起來我好像還沒有對這世界太失望吧哈哈，還是相信專業，還是相信離恢復沒有太遠。
+:::
+
 
 
 
